@@ -1,0 +1,1 @@
+Game simples que explora o javascript como linguagem de programação para jogo interativo usando como biblioteca o [Phaser](https://phaser.io)
